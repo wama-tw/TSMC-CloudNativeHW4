@@ -1,5 +1,8 @@
 # TSMC-CloudNativeHW4
 
+> 作業要求
+> ![](./HWRequirement.png)
+
 ## Docker 相關說明
 
 ### 如何透過 docker build 打包你的應用程式
