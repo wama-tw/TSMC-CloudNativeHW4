@@ -2,7 +2,7 @@ name: Docker Build / Test / Push
 
 on:
   push:
-    branches: [ all ]
+    branches: [ '*' ]
   pull_request:
     branches: [ main, dev ]
   workflow_dispatch:
